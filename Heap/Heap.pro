@@ -19,5 +19,4 @@ SOURCES += main.cpp
 
 HEADERS += \
     heap.h \
-    node.h \
     HeapADT.h
